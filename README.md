@@ -17,10 +17,10 @@ Online course catalog application is built to explore and create courses. Online
 
 ## Built With:
 
-Frontend: ReactJS with Ant Design
-Backend: Spring Boot
-Database: MongoDB Atlas
-Deployment:Amazon EC2,Amazon S3
+* Frontend: ReactJS with Ant Design
+* Backend: Spring Boot
+* Database: MongoDB Atlas
+* Deployment:Amazon EC2,Amazon S3
 
 ## Results:
 
